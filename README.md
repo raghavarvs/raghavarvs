@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghavarvs
 - 👀 I’m interested in Systems Programming
-- 🌱 I’m currently learning C , C++
+- 🌱 I’m currently learning C , Rust
 - 📫 How to reach me: venkata050907@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: C++ is easy
