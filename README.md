@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C , Rust
 - 📫 How to reach me: venkata050907@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: C++ is easy
 
 <!---
 raghavarvs/raghavarvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
